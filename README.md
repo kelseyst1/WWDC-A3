@@ -25,6 +25,6 @@ TimeMaster: Learn and Play
 
 -	The other aspect of this game is to give insight into different scenarios they may experience, such as wanting to join a new activity but having already committed to something else. 
 
--	Having played this game, ideally it will also open up conversations between the targeted user and their guardian/parent or teacher about time management and how to best respond in different situations. 
+-	Having played this game, ideally, it will also open up conversations between the targeted user and their guardian/parent or teacher about time management and how to best respond in different situations. 
 
 ![Uploading image.png…]()
